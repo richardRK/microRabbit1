@@ -12,6 +12,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure.IoC", "Infrastructure.IoC", "{3F93B378-D2AE-49A5-B8B9-E3DD33038557}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{FF3F4798-B3AF-4783-A36E-E60B2FAE3C69}"
+	ProjectSection(SolutionItems) = preProject
+		Script1.js = Script1.js
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
